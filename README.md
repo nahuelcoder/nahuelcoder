@@ -32,7 +32,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-bustos-193307213/)
-[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NahuelBustos2)
-[![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nahuelbustos00/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nahuel_Bustos)
+[![LinkedIn](https://img.shields.io/badge/nahuel_bustos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-bustos-193307213/)
+[![Twitter](https://img.shields.io/badge/NahuelBustos2-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NahuelBustos2)
+[![Instagram](https://img.shields.io/badge/nahuelbustos00-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nahuelbustos00/)
+[![Telegram](https://img.shields.io/badge/Nahuel_Bustos-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nahuel_Bustos)
