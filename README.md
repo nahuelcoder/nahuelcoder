@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nahuel Bustos
 ![](banner_github.jpg)
 
-## I'm a backend developer from Argentina
+## I'm a software developer from Argentina
 
 ## About me
 ### I am passionate about technology in general and programming in particular, but my main motivation is learning. What I do not know is a new challenge to overcome.
