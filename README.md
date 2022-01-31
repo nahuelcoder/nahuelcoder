@@ -6,7 +6,7 @@
 ## About me
 ### I am passionate about technology in general and programming in particular, but my main motivation is learning. What I do not know is a new challenge to overcome.
 - 🔭 I am in the last year of the Degree in Software Development
-- 📝 [Resume](https://drive.google.com/file/d/19e3BiRP_t1lSSEJqhiu_oEYmRfk_GvuF/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1VyrdFg1d5f6tmo7U2OVEp5ejgAbxP_hG/view?usp=sharing)
 
 ## Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
